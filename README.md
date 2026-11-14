@@ -49,6 +49,8 @@ The ESP32 acts as the main controller. Motion data from the MPU6050 is processed
 
 The current prototype is developed and tested in **Wokwi**.
 
+**Run the live simulation:** [Open the Smart Health & Fall Detection Wearable on Wokwi](https://wokwi.com/projects/480657816233260033)
+
 Simulation validates the initial sensor-reading, display, simulated heart-rate, and fall-state logic. It does not yet validate real-world fall detection, physiological measurements, GPS tracking, or emergency messaging.
 
 ## Fall-Detection Prototype Logic
